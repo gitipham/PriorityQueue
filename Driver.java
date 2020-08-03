@@ -7,7 +7,7 @@
  *   Each iteration will have its own 25% chance.
  *   Update the customer object currently being serviced (if one exists). This will be the customer object at the front of the queue.
  *   If the customer has been completely serviced, remove them from the queue.
- * @author: Ivy Pham
+ * @author: Ivy P.
  * @version: July 20, 2020
  */
 import java.util.Random;
