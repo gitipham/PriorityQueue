@@ -1,7 +1,7 @@
 /** Program: Priority Queue class that will represent the data structure for holding the Customer objects.
  *  In this class, it will create a heap that will act as the priority queue.
  *  This class also includes methods to get size, get the customer object in front of the line, add or remove object(s) from the line
- * @author: Ivy Pham
+ * @author: Ivy P.
  * @version: 07/20/2020
  */
 
